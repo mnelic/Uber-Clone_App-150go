@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166168128109",
+    "firebase_url": "https://katsi-to-katsi-default-rtdb.firebaseio.com",
+    "project_id": "katsi-to-katsi",
+    "storage_bucket": "katsi-to-katsi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166168128109:android:d692ffaeed68a6cad3ad64",
+        "android_client_info": {
+          "package_name": "com.msenitechnologies.katsirida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166168128109-6ogdsl0rnd6p6ud77eaeaughhtd04qtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdzl4a51Dky5j37BFiF_GvSD4Rm3daJCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166168128109-6ogdsl0rnd6p6ud77eaeaughhtd04qtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
