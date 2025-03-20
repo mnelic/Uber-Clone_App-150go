@@ -1,12 +1,8 @@
-# katsitokatsi
+# 150 go
 
 A new Flutter project.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-
 
 
 Images of the project as it no longer available on Play store.
