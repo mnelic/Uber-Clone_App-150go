@@ -10,7 +10,6 @@ This project is a starting point for a Flutter application.
 
 
 Images of the project as it no longer available on Play store.
-![Image Alt](https://github.com/mnelic/Uber-Clone_App-150go/commit/03f0029cfbf87a17091e9c9d2c551b51be5371e5)
 
 ![Image Alt](https://github.com/mnelic/Uber-Clone_App-150go/blob/f5c0f922028a24b3e580563832c01ee5d0f5fc12/eight.jpeg)
 
